@@ -11,7 +11,7 @@ is then easily multithreaded across every element in the input.
 
 Consider this example program:
 
-```
+```cpp
 #include "orc.h"
 
 int main() {
